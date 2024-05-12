@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Trigger_for_iot_db:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Trigger_for_iot_db_jar</output-path>
+    <root id="archive" name="Trigger_for_iot_db.jar">
+      <element id="module-output" name="Trigger_for_iot_db" />
+    </root>
+  </artifact>
+</component>
